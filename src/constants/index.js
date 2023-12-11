@@ -206,15 +206,15 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Arlind2200/rent_car",
     },
     {
-      name: "Job IT",
+      name: "Sarcastic Bot",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Web application that enables users to interact with Marv Sarcastic Bot where he will be answering your questions and adding a bit of spice in there. ",
       tags: [
         {
-          name: "react",
+          name: "Javascript",
           color: "blue-text-gradient",
         },
         {
@@ -222,17 +222,17 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "css",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Arlind2200/sarcastic_bot",
     },
     {
-      name: "Trip Guide",
+      name: "Travel Guide",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A comprehensive travel guide platform that allows users to guide to easy path, , set an adventure schedule, and find many new locations to climb every month.",
       tags: [
         {
           name: "nextjs",
@@ -248,7 +248,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Arlind2200/travel_guide",
     },
   ];
   
