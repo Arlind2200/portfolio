@@ -122,7 +122,7 @@ import {
       company_name: "Impact Digital Agentur",
       icon: impact,
       iconBg: "#383E56",
-      date: "June 2022 - Septmber 2022",
+      date: "June 2022 - September 2022",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
